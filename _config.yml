@@ -1,7 +1,7 @@
 name: Rendition
 favicon: null
-layout_spectrum: 0.26429563178680837
-typography_spectrum: 0.40874107112176716
+layout_spectrum: 1
+typography_spectrum: 0.23632
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.9282312921714038
-  lightness: 0.5265542212873697
-  saturation: 0.9123207263182849
-  rhythmicContrast: 0.7461273241788149
+    - '#000000'
+    - '#ffffff'
+    - '#cecece'
+    - '#3f3f3f'
+    - '#858585'
+  brandStrength: 1
+  lightness: 0.125
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
